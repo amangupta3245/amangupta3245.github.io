@@ -1,0 +1,81 @@
+html, body{
+ background-color: antiquewhite;
+}
+
+.clear{
+
+}
+
+.header{
+
+}
+
+#codePlayer{
+
+}
+
+.codePlayer{
+
+}
+
+.toggle{
+    display: inline-block;
+    list-style: none;
+    border: 1px solid black;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    width: 13%;
+    text-align: center;
+    margin-left: 2px;
+    background: #e0d9ca;
+    font-size: 20px;
+}
+
+.run{
+
+}
+
+#run{
+
+}
+
+#html{
+
+}
+
+#result{
+
+}
+
+.codeContainer textarea{
+float:inline-start;
+margin-left: 20px;
+font: 20px;
+display: inline-block;
+min-height: 25rem; 
+min-width: 18rem;
+overflow:scroll ;
+}
+
+.codeLabel{
+
+}
+
+#cssContainer, #jsContainer{
+
+}
+
+.iframe-css{
+
+  margin-left: 20px;
+  font-size: 20px;
+  min-height: 25rem; 
+    min-width: 18rem;
+    overflow:scroll ;
+}
+.newclass{
+    font-size: 120%;
+    border: none;
+}
+
+
